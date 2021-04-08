@@ -1,2 +1,9 @@
 # BlackJack
-montecarlo simulation to determine which strategies are best for a game of blackjack against a dealer. Extensions may include a genetic algorithm competing blackjack against others in a table.
+Demonstration of example project for Computational Economics I project. Will demonstrate mastery of class concepts to 
+
+# Monte Carlo Simulation
+This section of the code will measure the probability of a dealer winning with a given strategy.
+
+# Genetic algorithm
+This code will find the optimum strategy for dealers with the given number of players and number of decks.
+
